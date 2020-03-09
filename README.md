@@ -7,3 +7,7 @@ In fact, in class when my teacher was explaining to us how this paradigm worked 
 Tons of research had to be made to develop this project, particularly looking at some tutorials to solve some problems that I faced, but in the end I'm happpy to realize that I have expanded my skills!
 
 On a side note, I had to downsize this project to the 4 main operations, but my goal is to further expand this calculator (possibly with a different design) to accommodate more operations, such as trigonometric ones, exponentials and a couple more.
+
+Below there's an image of the calculator.
+
+![imagem](calc_img.jpg)
